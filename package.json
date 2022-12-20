@@ -15,7 +15,8 @@
     "@strapi/strapi": "4.5.1",
     "better-sqlite3": "7.4.6",
     "pg": "^8.8.0",
-    "pg-connection-string": "^2.5.0"
+    "pg-connection-string": "^2.5.0",
+    "yarn.lock": "^0.0.1-security"
   },
   "author": {
     "name": "A Strapi developer"
