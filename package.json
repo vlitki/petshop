@@ -12,6 +12,7 @@
   "dependencies": {
     "@strapi/plugin-i18n": "4.5.1",
     "@strapi/plugin-users-permissions": "4.5.1",
+    "@strapi/provider-upload-cloudinary": "^4.5.5",
     "@strapi/strapi": "4.5.1",
     "better-sqlite3": "7.4.6",
     "cloudinary": "^1.33.0",
